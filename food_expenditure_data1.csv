@@ -1,1 +1,8 @@
-Day,Lunch,Dinner,Misc (Tips & fee),GroceriesMonday,9,12,5.04,0Tuesday,7,12,4.56,18.37Wednesday,9,0,5.04,0Thursday,9,13.5,5.4,0Friday,7,25.78,7.8672,0Saturday,0,18.8,4.51,23.62Sunday,13.2,21.11,8.2344,0Total,54.2,115.19,40.6536,41.99
+Day,Lunch,Dinner,Misc (Tips & fee),Groceries
+Monday,9,12,5.04,0
+Tuesday,7,12,4.56,18.37
+Wednesday,9,0,5.04,0
+Thursday,9,13.5,5.4,0
+Friday,7,25.78,7.8672,0
+Saturday,0,18.8,4.51,23.62
+Sunday,13.2,21.11,8.2344,0
